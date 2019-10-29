@@ -1,6 +1,6 @@
 ---
 title: 'ESM 206 Lab 5'
-author: "Allison Horst"
+author: "Julia Dagum"
 date: "10/25/2019"
 output: html_document
 ---
